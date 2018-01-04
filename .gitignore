@@ -1,0 +1,18 @@
+# ignore trained model
+trained_models/**
+
+# ignore logs
+logs/**
+
+# ignore dataset
+data/**
+
+# ignore results
+results/**
+
+#ignore notebooks
+notebooks/**
+
+# others
+.idea/
+**.ipynb
